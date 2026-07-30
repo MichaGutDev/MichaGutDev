@@ -2,7 +2,7 @@
 
 ###
 
-![Herobild](hero.png)
+![Herobild](Hero.png)
 
 ###
 
