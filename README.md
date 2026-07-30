@@ -1,10 +1,11 @@
+![Herobild](Hero.png)
+
+###
+
 <h1 data-importer="text" align="left">Hi, my name is Micha! 👋<br>I’m training to be a full-stack developer!</h1>
 
 ###
 
-![Herobild](Hero.png)
-
-###
 
 <p data-importer="text" align="left">20 years of Construction Project Management meets Full-Stack Development (in training). Building the future of ConTech.</p>
 
